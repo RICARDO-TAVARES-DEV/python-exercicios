@@ -1,0 +1,16 @@
+
+Racao
+Amor
+Paixao
+Flamengo
+Campeao
+modo=5 diferentes modos
+r=leitura
+a=apend incrementar
+w=escrita
+x=create
+r+=leitura+escrita
+Racao
+Python
+
+jabuticaba
